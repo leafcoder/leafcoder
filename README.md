@@ -1,6 +1,5 @@
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=leafcoder&layout=compact)
-
 ![leafcoder 的统计](https://github-readme-stats.vercel.app/api?username=leafcoder&count_private=true&show_icons=true&theme=radical)
+![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=leafcoder&layout=compact)
 
 <!--
 **leafcoder/leafcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
